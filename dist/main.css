@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  color: #4a4a4a; }
+
+.app {
+  font-size: 3rem; }
+
